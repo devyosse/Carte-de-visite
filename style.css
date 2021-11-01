@@ -1,0 +1,30 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+.border{
+    border: black solid 1px;
+    height: 300px;
+    width: 500px;
+    margin-top: 20%;
+    margin-left: 35%;
+    border-radius: 5% ;
+    background-color: #e15e31;
+
+}
+
+p {
+    font-family: Consolas;
+    text-align: center;
+    text-shadow: 2px 2px 2px #5e3a3a;
+    font-style: italic;
+
+
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 40%;
+}
